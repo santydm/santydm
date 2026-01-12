@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndmdGI0ajV0cW54NTNzc2d2N3B2NzJkbWxtamF6cnljdHpsYXpnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/> Un saludo, Bienvenid@ a mi github
 
-![Mi Banner](github-header-banner.png)
+![Mi banner](github-header-banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-duarte-moyano-4b3767225)
 
