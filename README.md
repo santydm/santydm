@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-duarte-moyano-4b3767225)
 
- Tengo 21 años, principalmente me apaciona el codigo, los sistemas, el como y el por que de lo que utilizamos hoy en dia, me encanta estudiar de forma autodidacta y aplico esto en mi proceso de aprendizaje en general. Aprender a aprender es el primer paso para navegar en un buen barco(nuestro cerebro) con un buen timon (nuestra razon) en este mar de conocimiento y no naufragar en el intento
-
+### Tengo 21 años; principalmente me apasiona el código, los sistemas, el cómo y el porqué de lo que utilizamos hoy en día. Me encanta estudiar de forma autodidacta y aplico esto en mi proceso de aprendizaje en general. Aprender a aprender es el primer paso para navegar en un buen barco (nuestro cerebro), con un buen timón (nuestra razón), en este mar de conocimiento y no naufragar en el intento.
 
 ## SKILLS
 <p align="left">
